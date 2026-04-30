@@ -18,7 +18,7 @@ Note: Third-party data used to train the model remain subject to their original 
 
 ## Citation
 If you use this model, please cite:
-Wojtyło, P.A. QSAR Model for Indole-Scaffold AhR Agonists. Zenodo. DOI: XXXXX
+Wojtyło, P.A. QSAR Model for Indole-Scaffold AhR Agonists. Zenodo. DOI: https://doi.org/10.5281/zenodo.19913688
 
 ## Contact
 For questions, please contact the author.
